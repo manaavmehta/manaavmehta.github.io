@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["B9U3Z7472F.com.manaavmehta.EBGolf"],
+        "components": [
+          { "/": "/c/*", "comment": "EB Golf club stickers" }
+        ]
+      }
+    ]
+  }
+}
